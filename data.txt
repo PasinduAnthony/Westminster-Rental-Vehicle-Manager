@@ -1,12 +1,2 @@
-Car-------------------------
- PlateNo = P0002 Make = BMW Engine Capacity = 3000 Seat Capacity = 7 Price = 80000.0 Top Speed = 220 FuelCapacity = 100 NoOfDoor = 5 Is Wagon = true Is AirConditioned = true Has AirBags = true Car ID = 2
-----------------------------
-Car-------------------------
- PlateNo = P0001 Make = Toyota Engine Capacity = 2500 Seat Capacity = 5 Price = 50000.0 Top Speed = 180 FuelCapacity = 50 NoOfDoor = 5 Is Wagon = true Is AirConditioned = true Has AirBags = true Car ID = 1
-----------------------------
-MotorBike----------------------
- PlateNo = B0001 Make = Yamaha Engine Capacity = 250 Seat Capacity = 2 Price = 1000.0 Top Speed = 100 FuelCapacity = 10 no Of Helmets =2 Bike ID =1
------------------------------
-Car-------------------------
- PlateNo = P0003 Make = Benz Engine Capacity = 2000 Seat Capacity = 5 Price = 50000.0 Top Speed = 120 FuelCapacity = 50 NoOfDoor = 5 Is Wagon = true Is AirConditioned = true Has AirBags = true Car ID = 3
-----------------------------
+Car{plateNo='P0001', make='Toyota', engineCapacity=2000, seatCapacity=5, price=5000.0, topSpeed=150, fuelCapacity=70, noofDoors=5, isWagon=true, isAirConditioned=true, carID=1}
+MotorBike{plateNo='B0001', make='Yamaha', engineCapacity=200, seatCapacity=2, price=500.0, topSpeed=120, fuelCapacity=20, no of Helmets=2, Bike ID=1}
